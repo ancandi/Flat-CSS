@@ -8,7 +8,7 @@ Userstyle/CSS to remove border-radius and flatten all UI.
 <img src="https://raw.githubusercontent.com/ancandi/Flat-CSS/refs/heads/main/beforeafter.png" width="100%"/>
 
 </div>
-2
+
 ---
 
 ## 🛠 Installation
