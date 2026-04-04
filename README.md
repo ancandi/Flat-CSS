@@ -13,7 +13,7 @@ Userstyle/CSS snippet to remove border-radius and flatten all UI.
 
 ## 🛠 Installation
 1. Install the [Stylus browser extension](https://add0n.com/stylus.html).
-2. Click the **green button above** to install the fix directly.
+2. Click the **install button above** to install the fix directly.
 
 > **Note:**
 > Some sites may apply Flat CSS to exceeding elements unintentionally and may look worse or broken.
