@@ -12,6 +12,17 @@
 *::after {
     border-radius: 0 !important;
 }
-::-webkit-scrollbar-thumb {
+::-webkit-scrollbar,
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-corner {
     border-radius: 0 !important;
+}
+[style*="clip-path: circle"],
+[style*="border-radius"] {
+    clip-path: none !important;
+}
+rect {
+    rx: 0 !important;
+    ry: 0 !important;
 }
